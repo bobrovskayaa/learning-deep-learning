@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# downloaded data
+02_basic_nn/mnist/
+03_cnn/data/
+04_dense/maps.tar.gz
+04_dense/maps/
+04_dense/tb/
+06_generative_2/data/
+06_generative_2/images/
+06_generative_2/weights/
+07_word2vec/data/
